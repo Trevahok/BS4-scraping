@@ -1,4 +1,4 @@
-# Web Scraper
+# Yelp Web Scraping
 
 A package of rudimentary web scraping.
 
